@@ -11,13 +11,14 @@ Le programme fait usage de la programmation orientée objet, d’événements, d'état
 
 Tous les événements de base d'une fenêtre sont gérés (maximisation, minimisation, redimensionnement) pour bien afficher le contenu (proportions correctes). Avant de quitter l'application, l'usagé est prié de confirmer ce choix.
 
-Certains fichiers, tel les librairies auxquels le projet est lié, ne sont pas présents. Le répertoire immédiat du projet seulement a été versé, et même là, pour encourager le travail honnête d'éventuels étudiants qui consulterai ce dépôt, certains fichiers ne sont pas offerts. Les employeurs qui voudraient voir le projet dans son entièreté peuvent le demander.
+Certains fichiers, tel les librairies auxquels le projet est lié, ne sont pas présents. Le répertoire immédiat du projet seulement a été versé, et même là, pour encourager le travail honnête d'éventuels étudiants qui consulterai ce dépôt, certains fichiers ne sont pas offerts. **Les employeurs qui voudraient voir le projet dans son entièreté peuvent le demander.**
 
 *Remarque* : Dans la mesure que le temps le permettra, cette démo sera améliorée (code et contenu).
 
-#### Technologies ustilisées:
+#### Technologies ustilisées :
 - Windows (win32)
 - DirectX9
 - C++
+- Développé avec DevC++ v5.11 (pour sa légèreté et simplicité) 
 
-#### Lien vidéo:  https://youtu.be/KDWTYPCKp9A 
+#### Lien vidéo : https://youtu.be/KDWTYPCKp9A 
